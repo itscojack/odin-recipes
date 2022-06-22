@@ -1,1 +1,2 @@
 # odin-recipes
+Once completed, this project will demonstrate basic HTML and CSS knowledge. Working knowledge with HTML includes basic syntax for a webpage that is linked to other pages, as well as the use of the following attributes: headings, img, paragraphs, ul & ol, and li.
